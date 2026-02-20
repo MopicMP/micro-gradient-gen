@@ -1,0 +1,27 @@
+{
+  "name": "micro-gradient-gen",
+  "version": "1.0.0",
+  "description": "Micro css gradient generator and collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "css",
+    "gen",
+    "gradient",
+    "js",
+    "micro",
+    "tool",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/micro-gradient-gen.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
